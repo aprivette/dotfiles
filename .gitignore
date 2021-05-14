@@ -1,4 +1,2 @@
-*.DS_Store
-*.LSOverride
-Thumbs.db
-.bundle
+.DS_Store
+.nova/
